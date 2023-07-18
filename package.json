@@ -5,7 +5,7 @@
   "type": "module",
   "author": "Cal Young",
   "repository": {
-    "url": "https://github.com/Clyng57/byte-encoder"
+    "url": "https://github.com/Clyng57/safe-collections"
   },
   "keywords": [
     "slots",
